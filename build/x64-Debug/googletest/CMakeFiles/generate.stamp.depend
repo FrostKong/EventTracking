@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-3.31/Modules/CMakeDependentOption.cmake
+D:/CMake/share/cmake-3.31/Modules/GNUInstallDirs.cmake
+E:/work/daohang/EventTracking/googletest/CMakeLists.txt

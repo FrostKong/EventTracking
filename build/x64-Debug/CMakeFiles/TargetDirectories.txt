@@ -1,0 +1,16 @@
+E:/work/daohang/EventTracking/build/x64-Debug/CMakeFiles/INSTALL.dir
+E:/work/daohang/EventTracking/build/x64-Debug/CMakeFiles/ALL_BUILD.dir
+E:/work/daohang/EventTracking/build/x64-Debug/CMakeFiles/ZERO_CHECK.dir
+E:/work/daohang/EventTracking/build/x64-Debug/src/CMakeFiles/Buried_static.dir
+E:/work/daohang/EventTracking/build/x64-Debug/src/CMakeFiles/Buried_shared.dir
+E:/work/daohang/EventTracking/build/x64-Debug/src/CMakeFiles/INSTALL.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/CMakeFiles/INSTALL.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/CMakeFiles/ALL_BUILD.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googlemock/CMakeFiles/gmock.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googlemock/CMakeFiles/gmock_main.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googlemock/CMakeFiles/INSTALL.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googletest/CMakeFiles/gtest.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googletest/CMakeFiles/gtest_main.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googletest/CMakeFiles/INSTALL.dir
+E:/work/daohang/EventTracking/build/x64-Debug/googletest/googletest/CMakeFiles/ALL_BUILD.dir

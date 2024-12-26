@@ -1,0 +1,10 @@
+^E:\WORK\DAOHANG\EVENTTRACKING\GOOGLETEST\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SE:/work/daohang/EventTracking -BE:/work/daohang/EventTracking/build/x64-Debug --check-stamp-file E:/work/daohang/EventTracking/build/x64-Debug/googletest/googletest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

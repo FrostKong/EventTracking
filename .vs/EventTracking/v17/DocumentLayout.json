@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\work\\daohang\\EventTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\daohang\\EventTracking\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\daohang\\EventTracking\\src\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\daohang\\EventTracking\\scripts\\build.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\build.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\daohang\\EventTracking\\src\\buried.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\buried.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B0932-8854-4020-B83E-53E329E32383}|EventTracking.vcxproj|E:\\work\\daohang\\EventTracking\\include\\buried.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{975B0932-8854-4020-B83E-53E329E32383}|EventTracking.vcxproj|solutionrelative:include\\buried.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "build.py",
+              "DocumentMoniker": "E:\\work\\daohang\\EventTracking\\scripts\\build.py",
+              "RelativeDocumentMoniker": "scripts\\build.py",
+              "ToolTip": "E:\\work\\daohang\\EventTracking\\scripts\\build.py",
+              "RelativeToolTip": "scripts\\build.py",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADsAAAAKAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKlSURBVEhL3ZU9aFpRFICPPwGtEaLRLHFQEoiFQqEQgkQyhA7BLbOgpbh0Cc0gJKNjx0YwAbNIM7ilBAKFilNdGyKFUBBn/6JIQo2/t\u002Bccn6/PvPegTcjSDz7uFe\u002B9575zz3sXnhQhhNR7OgxSq\u002BQ5GpHaZ6jWGCW0y1/oT/QT\u002BgPV5S3aQ2nSQ\u002Byj71BN/OhjFp84QF\u002BijFFqiSg6M\u002B6qsVqtsLW1BR6PB2ZmdIcRJvTNuDsdgHKuwmAwQCAQgP39fVheXubfq6urHIj6OshrKQPQgU7h9Xphd3cXtre3od/vQ61Wg5ubG7i9vYWlpSVYW1sDh8MhjZ5CXku5ha/o63EX8xWNQjgchuFwyHY6Hbi\u002BvoZSqQQ2mw3sdjunymg0QrFYhHQ6Lc1kCmhw3P0DBZAPa3NzU6RSKdFsNvF10QYDi1arJeLxuPKQyW8oo0zRFL1eD87Pz2FnZwdOT085RRNwbU5TtVqFy8tLyOfz0j9qdAPQAd7d3UGj0YDj42OIxWJQKBSg2\u002B1CvV6HdrvNqTs6OuLN6KEbgHI7Go14MlmpVODg4IB3Tb/pKXK5HFxcXMBgQKWvjW4Ak8nEEm63G/x\u002BP5cmBZ0ETiaT/ETK9N1HN4DZbIb5\u002BXleeHFxkStndnaWd06Wy2Uu35WVlYc9gcVigY2NDa53l8sFTqeTA9LitGNq19fXYW9vD4JBVUXKKANQecmcnZ3B4eEh17rP5\u002BMgc3NzvDC9bAsLC1xJ9IafnJxIs2RGUjvFZ/R\u002BPQs8bBEKhUQmkxHZbFZcXV0JrCYRiUQEplE1XvILquIDqjWYxfwLLFWRSCQEpktzjMKPqIoXKJWD1oR/cYi\u002BQjWhy4JKQmvi30iLv0dltL63dFnQ91x5Zep9lycLT67MDPod/W8A\u002BA34HXgU9F911wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-25T04:04:00.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "E:\\work\\daohang\\EventTracking\\src\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "src\\CMakeLists.txt",
+              "ToolTip": "E:\\work\\daohang\\EventTracking\\src\\CMakeLists.txt",
+              "RelativeToolTip": "src\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-25T03:51:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "E:\\work\\daohang\\EventTracking\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "E:\\work\\daohang\\EventTracking\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-25T03:01:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "buried.cc",
+              "DocumentMoniker": "E:\\work\\daohang\\EventTracking\\src\\buried.cc",
+              "RelativeDocumentMoniker": "src\\buried.cc",
+              "ToolTip": "E:\\work\\daohang\\EventTracking\\src\\buried.cc",
+              "RelativeToolTip": "src\\buried.cc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T02:57:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "buried.h",
+              "DocumentMoniker": "E:\\work\\daohang\\EventTracking\\include\\buried.h",
+              "RelativeDocumentMoniker": "include\\buried.h",
+              "ToolTip": "E:\\work\\daohang\\EventTracking\\include\\buried.h",
+              "RelativeToolTip": "include\\buried.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-25T02:55:51.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
