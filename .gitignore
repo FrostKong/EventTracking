@@ -1,0 +1,17 @@
+# Visual Studio 2017 user specific files
+.vs/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.ipa
+
+# Builds
+build/*
+
+# Executables
+*.exe
+*.out
+*.app
